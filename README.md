@@ -48,15 +48,15 @@ Un grupo de proyectos separados por niveles para aprender a programar en Rust. P
 
 > Un programa que implemente el juego de ajedrez. El usuario puede jugar contra el programa o contra otro usuario.
 
-### Proyecto 2 | Sistema de archivos
+### Proyecto 2 | Red Social
 
-> Un programa que simule un sistema de archivos simple. El usuario puede crear archivos y carpetas, navegar por ellos y leer y escribir archivos.
+> Una aplicación de redes sociales básica que permita a los usuarios crear un perfil, publicar mensajes y seguir a otros usuarios.
 
 ## Nivel 4 | Dificil
 
-### Proyecto 1 | Red Social
+### Proyecto 1 | Sistema de archivos
 
-> Una aplicación de redes sociales básica que permita a los usuarios crear un perfil, publicar mensajes y seguir a otros usuarios.
+> Un programa que simule un sistema de archivos simple. El usuario puede crear archivos y carpetas, navegar por ellos y leer y escribir archivos.
 
 ### Proyecto 2 | Aplicación de consola para organizar archivos
 
