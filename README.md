@@ -1,5 +1,7 @@
 # Proyectos Rust
 
+Un grupo de proyectos separados por niveles para aprender a programar en Rust. Puedes encontrar documentacion util en este **[link](https://goyox86.gitbooks.io/el-libro-de-rust/content/index.html)**
+
 ## Nivel 1 - Facil
 
 ### Proyecto 1 | Hello World
