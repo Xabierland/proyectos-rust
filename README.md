@@ -34,9 +34,13 @@ Un grupo de proyectos separados por niveles para aprender a programar en Rust. P
 
 > Una aplicación de notas que permita al usuario crear, editar y eliminar notas. Las notas deben ser almacenadas en un archivo local para que el usuario pueda acceder a ellas cuando vuelva a iniciar la aplicación.
 
-### Proyecto 2 | Aplicación de línea de comandos
+### Proyecto 2 | Aplicación de convertir monedas
 
-> Una aplicación de línea de comandos que realice una tarea específica, como calcular la suma de dos números o buscar una palabra en un archivo de texto.
+> Una aplicación de consola que permita al usuario convertir cantidades de una moneda a otra.
+
+### Proyecto 3 | Una aplicación web simple
+
+> Una aplicación web que muestre una página HTML estática o que permita al usuario enviar mensajes a una base de datos.
 
 ## Nivel 3 | Avanzado
 
@@ -53,3 +57,7 @@ Un grupo de proyectos separados por niveles para aprender a programar en Rust. P
 ### Proyecto 1 | Red Social
 
 > Una aplicación de redes sociales básica que permita a los usuarios crear un perfil, publicar mensajes y seguir a otros usuarios.
+
+### Proyecto 2 | Aplicación de consola para organizar archivos
+
+> Una aplicación de consola que permita al usuario mover archivos de un directorio a otro y renombrarlos.
